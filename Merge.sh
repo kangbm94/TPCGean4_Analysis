@@ -1,0 +1,2 @@
+hadd PPBarAnal_1GeV_cd5.root PPBarPhiAnal_1GeV_cd5.root PPBar2PiPhiAnal_1GeV_cd5.root PPBar4PiAnal_1GeV_cd5.root
+hadd PPBarAnal_1.2GeV_cd5.root PPBarPhiAnal_1.2GeV_cd5.root PPBar2PiPhiAnal_1.2GeV_cd5.root PPBar4PiAnal_1.2GeV_cd5.root
